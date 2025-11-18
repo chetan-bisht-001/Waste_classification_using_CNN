@@ -14,7 +14,7 @@ st.set_page_config(page_title="AI Waste Classifier", page_icon="♻️", layout=
 # -----------------------------
 # Configure Gemini API
 # -----------------------------
-GEMINI_API_KEY = "AIzaSyAAzD-xm96fZ5IOEaxlNdJXoK_4q5jOCsU"  
+GEMINI_API_KEY = "LLM api put here"  
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Load Gemini Model
